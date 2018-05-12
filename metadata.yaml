@@ -1,0 +1,28 @@
+_repo: Knowledge-is-Power-Results-of-Labor-Capital-and-Skill._38367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knight, Charles
+    birthdate: 1791
+    deathdate: 1873
+    gutenberg_agent_id: '38856'
+    url: http://www.gutenberg.org/2009/agents/38856
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Industrial arts'
+- !lcsh 'Industries'
+title: "Knowledge is Power:\r\nA View of the Productive Forces of Modern Society and\
+  \ the Results of Labor, Capital and Skill."
+url: http://www.gutenberg.org/ebooks/38367
