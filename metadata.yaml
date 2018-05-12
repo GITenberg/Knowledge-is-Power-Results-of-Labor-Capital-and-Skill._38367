@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38856'
     url: http://www.gutenberg.org/2009/agents/38856
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38367#Knowledge-is-Power-Results-of-Labor-Capital-and-Skill.
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
